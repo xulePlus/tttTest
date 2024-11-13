@@ -28,6 +28,7 @@ import {
 type SectionProps = PropsWithChildren<{
   title: string;
 }>;
+type Ttes = {};
 
 function Section({ children, title }: SectionProps): JSX.Element {
   const isDarkMode = useColorScheme() === 'dark';
