@@ -1,0 +1,18 @@
+current directory: /Users/xushuangle/Documents/RNTest/MyDome720/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/xushuangle/Documents/RNTest/MyDome720/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241010-25086-pc8b6t sitelibdir\=./.gem.20241010-25086-pc8b6t clean
+
+current directory: /Users/xushuangle/Documents/RNTest/MyDome720/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241010-25086-pc8b6t sitelibdir\=./.gem.20241010-25086-pc8b6t
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/xushuangle/Documents/RNTest/MyDome720/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241010-25086-pc8b6t sitelibdir\=./.gem.20241010-25086-pc8b6t install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20241010-25086-pc8b6t
+
+current directory: /Users/xushuangle/Documents/RNTest/MyDome720/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241010-25086-pc8b6t sitelibdir\=./.gem.20241010-25086-pc8b6t clean
